@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SumPairOptimized\bin\Debug\netcoreapp3.1\SumPairOptimized.exe
+C:\Users\Admin\source\repos\SumPairOptimized\bin\Debug\netcoreapp3.1\SumPairOptimized.deps.json
+C:\Users\Admin\source\repos\SumPairOptimized\bin\Debug\netcoreapp3.1\SumPairOptimized.runtimeconfig.json
+C:\Users\Admin\source\repos\SumPairOptimized\bin\Debug\netcoreapp3.1\SumPairOptimized.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SumPairOptimized\bin\Debug\netcoreapp3.1\SumPairOptimized.dll
+C:\Users\Admin\source\repos\SumPairOptimized\bin\Debug\netcoreapp3.1\SumPairOptimized.pdb
+C:\Users\Admin\source\repos\SumPairOptimized\obj\Debug\netcoreapp3.1\SumPairOptimized.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SumPairOptimized\obj\Debug\netcoreapp3.1\SumPairOptimized.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SumPairOptimized\obj\Debug\netcoreapp3.1\SumPairOptimized.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SumPairOptimized\obj\Debug\netcoreapp3.1\SumPairOptimized.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SumPairOptimized\obj\Debug\netcoreapp3.1\SumPairOptimized.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SumPairOptimized\obj\Debug\netcoreapp3.1\SumPairOptimized.dll
+C:\Users\Admin\source\repos\SumPairOptimized\obj\Debug\netcoreapp3.1\SumPairOptimized.pdb
+C:\Users\Admin\source\repos\SumPairOptimized\obj\Debug\netcoreapp3.1\SumPairOptimized.genruntimeconfig.cache

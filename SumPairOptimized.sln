@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumPairOptimized", "SumPairOptimized.csproj", "{99AC6DC9-CDB8-4BAA-96B3-7539595BC074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99AC6DC9-CDB8-4BAA-96B3-7539595BC074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AC6DC9-CDB8-4BAA-96B3-7539595BC074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AC6DC9-CDB8-4BAA-96B3-7539595BC074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AC6DC9-CDB8-4BAA-96B3-7539595BC074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51278C3D-CB09-4BE4-89CC-2330821866A9}
+	EndGlobalSection
+EndGlobal
